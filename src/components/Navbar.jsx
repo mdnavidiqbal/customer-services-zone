@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Navbar(){
   return (
-    <header className="bg-white shadow-sm">
-      <div className="w-[1240] mx-auto px-10 sm:px-6 lg:px-8 py-4 flex justify-between">
+    <header className="bg-white shadow-sm max-w-6xl mx-auto">
+      <div className="max-w-[1240px] mx-auto px-10 sm:px-6 lg:px-8 py-4 flex justify-between">
         <div className="text-xl font-bold text-gray-800"><a href="#">CS — Ticket System</a></div>
         <div className="flex items-center gap-6">
           <nav className="hidden md:flex gap-6 text-sm text-gray-600">

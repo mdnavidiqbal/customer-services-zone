@@ -4,7 +4,7 @@ import React, { Component } from "react";
 class Footer extends Component {
   render() {
     return (
-      <footer className="bg-base-300 text-base-content">
+      <footer className="bg-base-300 text-base-content max-w-[1240px] mx-auto">
         {/* Top Footer Content */}
         <div className="footer sm:footer-horizontal p-10 px-10 sm:px-6 lg:px-8">
           <nav>
