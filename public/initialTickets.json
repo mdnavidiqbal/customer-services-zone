@@ -1,0 +1,92 @@
+[
+  {
+    "id": "#1001",
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in to their account.",
+    "customer": "John Smith",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "11/25/2024"
+  },
+  {
+    "id": "#1002",
+    "title": "Payment Failed - Card Declined",
+    "description": "Payment keeps failing despite sufficient balance.",
+    "customer": "Sarah Johnson",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "11/26/2024"
+  },
+  {
+    "id": "#1003",
+    "title": "Unable to Download Invoice",
+    "description": "Customer cannot download their January invoice.",
+    "customer": "Michael Brown",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "11/17/2024"
+  },
+  {
+    "id": "#1004",
+    "title": "Incorrect Billing Address",
+    "description": "Customer's billing address shows a different city.",
+    "customer": "Emily Davis",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "11/18/2024"
+  },
+  {
+    "id": "#1005",
+    "title": "App Crash on Launch",
+    "description": "App crashes immediately on Android 13.",
+    "customer": "David Wilson",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "11/19/2024"
+  },
+  {
+    "id": "#1006",
+    "title": "Refund Not Processed",
+    "description": "Customer requested a refund two weeks ago.",
+    "customer": "Sophia Taylor",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "11/20/2024"
+  },
+  {
+    "id": "#1007",
+    "title": "Two-Factor Authentication Issue",
+    "description": "Customer not receiving 2FA codes.",
+    "customer": "James Anderson",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "11/21/2024"
+  },
+  {
+    "id": "#1008",
+    "title": "Unable to Update Profile Picture",
+    "description": "Upload failed error.",
+    "customer": "Olivia Martinez",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "11/22/2024"
+  },
+  {
+    "id": "#1009",
+    "title": "Subscription Auto-Renewal",
+    "description": "Toggle disabled for auto-renewal.",
+    "customer": "Liam Thomas",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "11/17/2024"
+  },
+  {
+    "id": "#1010",
+    "title": "Missing Order Confirmation Email",
+    "description": "Didn't receive confirmation email.",
+    "customer": "Isabella Garcia",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "11/24/2024"
+  }
+]
